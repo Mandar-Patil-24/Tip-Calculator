@@ -83,7 +83,7 @@ body{
     animation: fadein 0.5s, fadeout 0.5s 0.25s ;
 
   }
-
+/*This is the animation for the output     */
   @-webkit-keyframes fadein {
     from {bottom: 0; opacity: 0;}
     to {bottom: 30px; opacity: 1;}
